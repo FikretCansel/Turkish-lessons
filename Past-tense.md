@@ -193,5 +193,42 @@ Examples:
 So, if it’s **not certain, just heard, guessed, or gossip**, you use the **-mış past tense!**
 
 ---
+Here’s a **simple and clear comparison table** showing the difference between **-di past tense** and **-mış past tense** in English:
 
-Would you like me to also **compare both past tenses (-di vs -mış)** in a **simple English table** so it’s easier for learners to understand the difference?
+---
+
+### ✅ Comparison of **-di Past** vs **-mış Past**
+
+| Feature                   | **-di Past Tense**                                    | **-mış Past Tense**                                                      |
+| ------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------ |
+| **What does it mean?**    | Direct past → You **saw or experienced** it yourself. | Reported/Inferential past → You **heard, guessed, or learned** it later. |
+| **How sure are you?**     | 100% sure → you know it happened.                     | Not fully sure → you didn’t see it, you heard or assumed.                |
+| **Source of information** | From your **own eyes or experience**.                 | From **others, gossip, or a result** you see.                            |
+| **English equivalent**    | Past Simple → *I went, I saw, I did*                  | Reported speech / apparently → *I heard he went, Apparently, he came*    |
+| **Example in Turkish**    | Dün geldim.                                           | Dün gelmiş.                                                              |
+| **Example in English**    | I came yesterday. *(I know, I was there)*             | Apparently, he came yesterday. *(I heard it)*                            |
+| **Another example**       | Sinemaya gittik. → *We went to the cinema.*           | Sinemaya gitmişiz. → *Apparently, we went to the cinema.*                |
+| **Typical situations**    | Talking about **what you really did**                 | Talking about **what you heard, guessed, or were surprised about**       |
+
+---
+
+### ✅ Quick Examples
+
+* **-di Past (Direct)**
+
+  * Dün okula gittim. → *I went to school yesterday.*
+  * Ali kahve içti. → *Ali drank coffee.*
+
+* **-mış Past (Reported)**
+
+  * Dün okula gitmiş. → *Apparently, he went to school yesterday.*
+  * Ali kahve içmiş. → *I heard Ali drank coffee.*
+
+---
+
+### ✅ Easy Way to Remember
+
+* **“-di” → I saw it with my eyes.**
+* **“-mış” → I didn’t see it, but I heard or guessed.**
+
+
