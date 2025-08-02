@@ -120,7 +120,28 @@ Complete the sentence:
 * Yarın okulda \_\_\_\_\_\_\_\_\_\_. *(olmak → will be)*
 * Bu akşam sinema \_\_\_\_\_\_\_\_\_\_. *(gitmek → will go)*
 * Birazdan seni \_\_\_\_\_\_\_\_\_\_. *(aramak → will call)*
-
+------
+Practise
+1. Haftaya sinemaya __________. *(gitmek → will go)*  
+2. Akşam yemeği için pizza __________. *(sipariş etmek → will order)*  
+3. O proje hakkında sana __________. *(konuşmak → will talk)*  
+4. Gelecek yıl yeni bir telefon __________. *(almak → will buy)*  
+5. Tatilde çok fotoğraf __________. *(çekmek → will take)*  
+6. Ders bitince seni __________. *(arayacak → will call)*  
+7. Onlar hafta sonu Ankara’ya __________. *(gitmek → will go)*  
+8. Patron sana yarın bilgi __________. *(vermek → will give)*  
+9. Yazın denize __________. *(girmek → will swim)*  
+10. Bu akşam kitap __________. *(okumak → will read)*  
+11. Yarın sabah erken __________. *(uyanmak → will wake up)*  
+12. Önümüzdeki hafta yeni bir işe __________. *(başlamak → will start)*  
+13. Akşam spora __________. *(gitmek → will go)*  
+14. Bu konuyu öğretmene __________. *(sormak → will ask)*  
+15. Sana detayları e-posta ile __________. *(göndermek → will send)*  
+16. Yarın alışverişe __________. *(çıkmak → will go out)*  
+17. Akşam yemeğini ben __________. *(hazırlamak → will prepare)*  
+18. Yeni bir kursa __________. *(kayıt olmak → will enroll)*  
+19. Cumartesi günü seni evden __________. *(almak → will pick up)*  
+20. Yaz tatilinde bir roman __________. *(yazmak → will write)*
 ---
 
 🇬🇧 **BONUS (Comparison with English)**
